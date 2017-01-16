@@ -1,0 +1,9 @@
+The Decorator Pattern attaches additional
+responsibilities to an object dynamically.
+Decorators provide a flexible alternative to
+subclassing for extending functionality.
+
+In this example, we utilize the Decorator Pattern to
+make a compile time order for beverages with additional additives
+like: Vanilla ice cream, and ice cubes. Then we calculate the total cost
+of each order, and display all the contents of that order.
